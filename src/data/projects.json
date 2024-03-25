@@ -22,5 +22,13 @@
     "skills": ["React", "Next", "SCSS"],
     "demo": "https://asdeporte.vercel.app/",
     "source": "https://github.com/carlosalberto05/asdeporte"
+  },
+  {
+    "title": "Carlos Alberto",
+    "imageSrc": "projects/yt.png",
+    "description": "This is my YouTube chanel, focused on programming tutorials.",
+    "skills": ["JavaScript", "React", "Technology"],
+    "demo": "https://www.youtube.com/@CarlosAlberto-cx5cf/videos",
+    "source": "https://www.youtube.com/@CarlosAlberto-cx5cf/videos"
   }
 ]

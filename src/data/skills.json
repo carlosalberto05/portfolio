@@ -17,14 +17,14 @@
   },
   {
     "title": "TypeScript",
-    "imageSrc": "skills/graphql.png"
+    "imageSrc": "skills/typescript.png"
   },
   {
     "title": "MySQL",
-    "imageSrc": "skills/mongodb.png"
+    "imageSrc": "skills/mysql.png"
   },
   {
     "title": "Adobe XD",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/adobexd.png"
   }
 ]
