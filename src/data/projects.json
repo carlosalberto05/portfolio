@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Placas 3D",
+    "imageSrc": "projects/placas.png",
+    "description": "This is a React-based project for a business specialized in 3D printing of dog tags.",
+    "skills": ["React", "JavaScript"],
+    "demo": "https://placas-3d.netlify.app/",
+    "source": "https://github.com/carlosalberto05/placas.git"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Mi cuenta Infonavit",
+    "imageSrc": "projects/infonavit.png",
+    "description": "This is a big project in which I participated as a front-end developer.",
+    "skills": ["React", "Materia UI", "TypeScript"],
+    "demo": "https://micuenta.infonavit.org.mx/",
+    "source": "https://github.com/carlosalberto05"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "As Deporte",
+    "imageSrc": "projects/deporte.png",
+    "description": "This is a project where I showcase my layout skills using Next.js.",
+    "skills": ["React", "Next", "SCSS"],
+    "demo": "https://asdeporte.vercel.app/",
+    "source": "https://github.com/carlosalberto05/asdeporte"
   }
 ]

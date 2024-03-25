@@ -15,20 +15,16 @@ const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Web Developer</h3>
               <p>
-                I&apos;m a frontend developer with experience in build and
-                optimized aplications{" "}
-              </p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
-            <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
-              <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                I&apos;m a web developer with experience creating and supporting
+                applications using JavaScript and React JS. I worked as a web
+                programmer for the public sector in the Infonavit project,
+                standing out for the effective resolution of assigned tasks. I
+                am recognized for my persistence, critical thinking and my
+                ability to find solutions. My proactive approach, empathy and
+                self-discipline reinforce my ability to work independently and
+                collaborate effectively in multidisciplinary teams.{" "}
               </p>
             </div>
           </li>
