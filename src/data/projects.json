@@ -30,5 +30,13 @@
     "skills": ["JavaScript", "React", "Technology"],
     "demo": "https://www.youtube.com/@CarlosAlberto-cx5cf/videos",
     "source": "https://www.youtube.com/@CarlosAlberto-cx5cf/videos"
+  },
+  {
+    "title": "MellowDyne",
+    "imageSrc": "projects/Mellowdine.png",
+    "description": "This is an e-commerce dedicated to the online sale of vinyl records 💿.",
+    "skills": ["Node JS", "EJS", "MySQL", "Express"],
+    "demo": "https://github.com/carlosalberto05/grupo_4_exitosos",
+    "source": "https://github.com/carlosalberto05/grupo_4_exitosos"
   }
 ]
